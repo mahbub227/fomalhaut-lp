@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fomalhaut-lp/static/css/main.d8b41ec2.chunk.css",
+    "main.js": "/fomalhaut-lp/static/js/main.a1ad7c0a.chunk.js",
+    "main.js.map": "/fomalhaut-lp/static/js/main.a1ad7c0a.chunk.js.map",
+    "runtime-main.js": "/fomalhaut-lp/static/js/runtime-main.e42fa2d9.js",
+    "runtime-main.js.map": "/fomalhaut-lp/static/js/runtime-main.e42fa2d9.js.map",
+    "static/js/2.c0c36f05.chunk.js": "/fomalhaut-lp/static/js/2.c0c36f05.chunk.js",
+    "static/js/2.c0c36f05.chunk.js.map": "/fomalhaut-lp/static/js/2.c0c36f05.chunk.js.map",
+    "static/js/3.e6078457.chunk.js": "/fomalhaut-lp/static/js/3.e6078457.chunk.js",
+    "static/js/3.e6078457.chunk.js.map": "/fomalhaut-lp/static/js/3.e6078457.chunk.js.map",
+    "index.html": "/fomalhaut-lp/index.html",
+    "static/css/main.d8b41ec2.chunk.css.map": "/fomalhaut-lp/static/css/main.d8b41ec2.chunk.css.map",
+    "static/js/2.c0c36f05.chunk.js.LICENSE.txt": "/fomalhaut-lp/static/js/2.c0c36f05.chunk.js.LICENSE.txt",
+    "static/media/bg-logo.gif": "/fomalhaut-lp/static/media/bg-logo.78865230.gif",
+    "static/media/logo.gif": "/fomalhaut-lp/static/media/logo.27f2c384.gif",
+    "static/media/scroll-to-bottom.svg": "/fomalhaut-lp/static/media/scroll-to-bottom.45c865b4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e42fa2d9.js",
+    "static/js/2.c0c36f05.chunk.js",
+    "static/css/main.d8b41ec2.chunk.css",
+    "static/js/main.a1ad7c0a.chunk.js"
+  ]
+}
